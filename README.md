@@ -9,12 +9,12 @@
 
 ## minio 运维
 
-- [minio集群部署](./document/md/minio集群部署.md)
-- [Minio使用分析](./document/md/Minio使用分析.md)
+- [minio集群部署](./document/md/minio/minio集群部署.md)
+- [Minio使用分析](./document/md/minio/Minio使用分析.md)
 
 
 ## minio 源代码分析
-- [Goland导入minio源代码](./document/md/Goland导入minio源代码.md)
+- [Goland导入minio源代码](./document/md/minio/Goland导入minio源代码.md)
 
 
 ## 文件解压缩
